@@ -2,7 +2,7 @@
 
 A modern, secure, and intuitive data catalog for discovering, managing, and governing data assets.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/danenakvy/Data-Catalog-Test)
 
 Nexus Data Catalog is a sophisticated, minimalist web application for discovering, managing, and governing an organization's data assets. It provides a centralized repository for metadata, enabling users to understand data context, quality, and lineage. The platform is built around a robust role-based access control system to ensure data security and appropriate usage.
 
@@ -84,7 +84,7 @@ This project is designed for seamless deployment to Cloudflare.
 
 Alternatively, you can deploy directly from your GitHub repository.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/danenakvy/Data-Catalog-Test)
 
 ## Role-Permission Matrix
 
